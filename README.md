@@ -27,3 +27,5 @@ Code for the ACL 2020 paper
 7) evaluation
   - evaluation/evaluation.ipynb
   - evaluation/evaluation_unseen.ipynb
+
+Data and models can be found [here](https://drive.google.com/drive/folders/1bM4QJgWyip8_gKUL4ne2EPBXEiwxyegC?usp=sharing). 
